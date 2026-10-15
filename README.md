@@ -4,23 +4,20 @@
 
 ## 購読URL
 
-```
-webcal://raw.githubusercontent.com/raitok0905/pogo-calendar-ja/main/pogo.ics
-```
+カレンダーは2つあります。必要なほうだけ、または両方を購読してください。
 
-iPhone / Mac / iCloud.com のカレンダーで「照会カレンダー（購読カレンダー）」として追加してください。
+| カレンダー | 中身 | URL |
+|---|---|---|
+| ポケモンGO | イベント、コミュニティ・デイ、○○デイ、スポットライトアワー、レイドアワー、マックスマンデー、曜日ボーナス | `webcal://raw.githubusercontent.com/raitok0905/pogo-calendar-ja/main/pogo.ics` |
+| ポケモンGO レイド | 伝説・メガ・シャドウレイドとマックスバトルのボスの入れ替わり | `webcal://raw.githubusercontent.com/raitok0905/pogo-calendar-ja/main/pogo-raids.ics` |
 
-## 中身
-
-- 大型イベント、コミュニティ・デイ、レイドデイ、マックスバトルデイなど（通知あり）
-- スポットライトアワー、レイドアワー、マックスマンデー（15分前に通知）
-- 伝説・メガ・シャドウレイド、マックスバトルのボスの入れ替わり
-- 仲良しフライデーなどの曜日ボーナス
+iPhone / Mac / iCloud.com のカレンダーで「照会カレンダー（購読カレンダー）」として追加してください。カレンダーごとに色や表示のオンオフを変えられます。
 
 ## しくみ
 
-- `events.json`：イベントの一覧（ここを編集する）
-- `build.py`：`events.json` から `pogo.ics` を作る（`python3 build.py`）
-- `pogo.ics`：購読されるカレンダー本体
+- `events.json`：イベントの一覧（ここを編集する）。`"calendar": "raids"` の予定はレイド用カレンダーに入る
+- `build.py`：`events.json` から `pogo.ics` と `pogo-raids.ics` を作る（`python3 build.py`）
+
+色違いの確率は攻略サイト・コミュニティの推定値で、公式発表ではありません。
 
 情報源：ポケモンGO公式ニュース（pokemongo.com/ja/news）ほか。非公式のカレンダーです。

@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""events.json から日本語のポケモンGOカレンダー (pogo.ics) を作る。
+"""events.json から日本語のポケモンGOカレンダーを作る。
+
+  pogo.ics        メイン（イベント・1時間イベント・曜日ボーナス）
+  pogo-raids.ics  レイドボスの入れ替わり（calendar が "raids" の予定）
 
 events.json の各要素:
   id          必須。予定を見分ける固定ID（変えると別の予定扱いになる）
@@ -9,6 +12,7 @@ events.json の各要素:
   alarm       通知を何分前に出すか（省略で通知なし）
   description 説明（任意）
   url         情報源のURL（任意）
+  calendar    "raids" ならレイド用カレンダーに入る（省略でメイン）
 """
 import json
 import sys
@@ -17,8 +21,12 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 SRC = HERE / "events.json"
-OUT = HERE / "pogo.ics"
 TZID = "Asia/Tokyo"
+CALENDARS = {
+    "main": ("pogo.ics", "ポケモンGO", "ポケモンGOのイベント（日本時間・自動更新）"),
+    "raids": ("pogo-raids.ics", "ポケモンGO レイド",
+              "伝説・メガ・シャドウレイドとマックスバトルのボスの入れ替わり（日本時間・自動更新）"),
+}
 
 
 def esc(text: str) -> str:
@@ -48,7 +56,7 @@ def dt(value: str, all_day: bool) -> str:
     return f";TZID={TZID}:" + datetime.strptime(value, "%Y-%m-%dT%H:%M").strftime("%Y%m%dT%H%M%S")
 
 
-def build(events) -> str:
+def build(events, name: str, desc_text: str) -> str:
     stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     lines = [
         "BEGIN:VCALENDAR",
@@ -56,9 +64,9 @@ def build(events) -> str:
         "PRODID:-//pogo-calendar-ja//JA",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
-        "X-WR-CALNAME:ポケモンGO",
+        f"X-WR-CALNAME:{name}",
         f"X-WR-TIMEZONE:{TZID}",
-        "X-WR-CALDESC:ポケモンGOのイベント（日本時間・自動更新）",
+        f"X-WR-CALDESC:{esc(desc_text)}",
         "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
         "X-PUBLISHED-TTL:PT6H",
         "BEGIN:VTIMEZONE",
@@ -71,11 +79,7 @@ def build(events) -> str:
         "END:STANDARD",
         "END:VTIMEZONE",
     ]
-    seen = set()
     for e in events:
-        if e["id"] in seen:
-            sys.exit(f"IDが重複しています: {e['id']}")
-        seen.add(e["id"])
         all_day = bool(e.get("allDay"))
         desc = e.get("description", "")
         if e.get("url"):
@@ -108,6 +112,15 @@ def build(events) -> str:
 
 if __name__ == "__main__":
     events = json.loads(SRC.read_text(encoding="utf-8"))
+    ids = [e["id"] for e in events]
+    dup = {i for i in ids if ids.count(i) > 1}
+    if dup:
+        sys.exit(f"IDが重複しています: {', '.join(sorted(dup))}")
     events.sort(key=lambda e: (e["start"], e["id"]))
-    OUT.write_text(build(events), encoding="utf-8", newline="")
-    print(f"{len(events)}件 → {OUT.name}")
+    unknown = {e.get("calendar", "main") for e in events} - set(CALENDARS)
+    if unknown:
+        sys.exit(f"不明な calendar: {', '.join(sorted(unknown))}")
+    for key, (filename, name, desc_text) in CALENDARS.items():
+        part = [e for e in events if e.get("calendar", "main") == key]
+        (HERE / filename).write_text(build(part, name, desc_text), encoding="utf-8", newline="")
+        print(f"{len(part)}件 → {filename}")
