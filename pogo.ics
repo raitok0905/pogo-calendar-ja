@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:fall-marathon-buddy-trek-2026@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;TZID=Asia/Tokyo:20261013T100000
 DTEND;TZID=Asia/Tokyo:20261019T200000
 SUMMARY:🍂 秋の遠足：相棒といっしょ
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:friendship-friday-2026-10-16@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:🤝 仲良しフライデー
@@ -54,7 +54,7 @@ DESCRIPTION:🎁特別な交換が最大2回、交換のほしのすな20%
 END:VEVENT
 BEGIN:VEVENT
 UID:sandile-hatch-day-2026@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;TZID=Asia/Tokyo:20261017T110000
 DTEND;TZID=Asia/Tokyo:20261017T170000
 SUMMARY:🥚 メグロコふかの日
@@ -77,7 +77,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:scenic-sunday-2026-10-18@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:🏞️ シーニックサンデー
@@ -87,8 +87,23 @@ DESCRIPTION:🎁野生のポケモンが増える、ルート中の出現
  マテオに1日最大3回会える
 END:VEVENT
 BEGIN:VEVENT
+UID:aeon-halloween-tc-part1-2026@pogo-calendar-ja
+DTSTAMP:20261015T162225Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261026
+SUMMARY:🎃 イオンモールハロウィン タイムチャレンジ：
+ パート1
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い：魔女帽子のピカチュウは色違いあり
+ （確率は未発表）\n📍対象のイオンモールに行くと受
+ け取れる\n🏆報酬：完了すると魔女帽子のピカチュウ
+ に会える\n⚠️完了期限は11/8 20:00。パート1・2はそれぞ
+ れ1回ずつ\nhttps://pokemongo-raku.com/post164276
+URL:https://pokemongo-raku.com/post164276
+END:VEVENT
+BEGIN:VEVENT
 UID:max-monday-2026-10-19@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;TZID=Asia/Tokyo:20261019T060000
 DTEND;TZID=Asia/Tokyo:20261019T210000
 SUMMARY:💥 マックスマンデー
@@ -101,8 +116,22 @@ DESCRIPTION:🎁ボーナス：パワースポットの入れ替わりが
 URL:https://pokemongo-raku.com/post163015
 END:VEVENT
 BEGIN:VEVENT
+UID:meteor-shower-orionids-2026@pogo-calendar-ja
+DTSTAMP:20261015T162225Z
+DTSTART;TZID=Asia/Tokyo:20261019T170000
+DTEND;TZID=Asia/Tokyo:20261024T235900
+SUMMARY:☄️ メテノシャワー：オリオン座流星群
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い：なし\n☄️野生にメテノ（りゅうせ
+ いのすがた）が出る。毎日17:00〜21:00は流れ星が出てメ
+ テノが出やすい\n🎁期間ごとに7色のうち1色のコアのメ
+ テノが登場（バトルでHPを半分以下にするとコアの姿に
+ なる）\nhttps://pokemongo-raku.com/post163951
+URL:https://pokemongo-raku.com/post163951
+END:VEVENT
+BEGIN:VEVENT
 UID:showcase-day-2026-10-20@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;TZID=Asia/Tokyo:20261020T100000
 DTEND;TZID=Asia/Tokyo:20261020T200000
 SUMMARY:🏅 おひろめデイ
@@ -112,7 +141,7 @@ DESCRIPTION:🎁ポケストップおひろめに最大5か所参加でき
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-hour-2026-10-21@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;TZID=Asia/Tokyo:20261021T180000
 DTEND;TZID=Asia/Tokyo:20261021T190000
 SUMMARY:⚔️ レイドアワー：パルキア
@@ -129,7 +158,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-day-2026-10-22@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:🏆 GOバトルリーグデイ
@@ -139,7 +168,7 @@ DESCRIPTION:🎁勝利時のほしのすな4倍、1日のセット数が増
 END:VEVENT
 BEGIN:VEVENT
 UID:spotlight-2026-10-22@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;TZID=Asia/Tokyo:20261022T180000
 DTEND;TZID=Asia/Tokyo:20261022T190000
 SUMMARY:🔦 スポットライトアワー：ネマシュ
@@ -156,7 +185,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:friendship-friday-2026-10-23@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:🤝 仲良しフライデー
@@ -166,7 +195,7 @@ DESCRIPTION:🎁特別な交換が最大2回、交換のほしのすな20%
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-lake-trio-2026@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;TZID=Asia/Tokyo:20261024T140000
 DTEND;TZID=Asia/Tokyo:20261024T170000
 SUMMARY:💥 マックスバトルデイ：ダイマックスユクシー
@@ -190,7 +219,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:scenic-sunday-2026-10-25@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:🏞️ シーニックサンデー
@@ -200,8 +229,23 @@ DESCRIPTION:🎁野生のポケモンが増える、ルート中の出現
  マテオに1日最大3回会える
 END:VEVENT
 BEGIN:VEVENT
+UID:aeon-halloween-tc-part2-2026@pogo-calendar-ja
+DTSTAMP:20261015T162225Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261102
+SUMMARY:🎃 イオンモールハロウィン タイムチャレンジ：
+ パート2
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い：魔女帽子のピカチュウは色違いあり
+ （確率は未発表）\n📍対象のイオンモールに行くと受
+ け取れる\n🏆報酬：完了すると魔女帽子のピカチュウ
+ に会える\n⚠️完了期限は11/15 20:00\nhttps://pokemongo-raku.com
+ /post164276
+URL:https://pokemongo-raku.com/post164276
+END:VEVENT
+BEGIN:VEVENT
 UID:max-monday-2026-10-26@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;TZID=Asia/Tokyo:20261026T060000
 DTEND;TZID=Asia/Tokyo:20261026T210000
 SUMMARY:💥 マックスマンデー
@@ -215,7 +259,7 @@ URL:https://pokemongo-raku.com/post163015
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-part-1-2026@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;TZID=Asia/Tokyo:20261027T100000
 DTEND;TZID=Asia/Tokyo:20261101T100000
 SUMMARY:🎃 ハロウィン2026：パート1
@@ -242,7 +286,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:showcase-day-2026-10-27@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;TZID=Asia/Tokyo:20261027T100000
 DTEND;TZID=Asia/Tokyo:20261027T200000
 SUMMARY:🏅 おひろめデイ
@@ -252,7 +296,7 @@ DESCRIPTION:🎁ポケストップおひろめに最大5か所参加でき
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-hour-2026-10-28@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;TZID=Asia/Tokyo:20261028T180000
 DTEND;TZID=Asia/Tokyo:20261028T190000
 SUMMARY:⚔️ レイドアワー：ギラティナ（オリジンフォル
@@ -271,7 +315,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-day-2026-10-29@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:🏆 GOバトルリーグデイ
@@ -281,7 +325,7 @@ DESCRIPTION:🎁勝利時のほしのすな4倍、1日のセット数が増
 END:VEVENT
 BEGIN:VEVENT
 UID:spotlight-2026-10-29@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;TZID=Asia/Tokyo:20261029T180000
 DTEND;TZID=Asia/Tokyo:20261029T190000
 SUMMARY:🔦 スポットライトアワー：ゴース
@@ -298,7 +342,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:friendship-friday-2026-10-30@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:🤝 仲良しフライデー
@@ -308,7 +352,7 @@ DESCRIPTION:🎁特別な交換が最大2回、交換のほしのすな20%
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-chandelure-2026@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;TZID=Asia/Tokyo:20261031T140000
 DTEND;TZID=Asia/Tokyo:20261031T170000
 SUMMARY:💎 スーパーメガレイド・デイ：メガシャンデラ
@@ -334,46 +378,122 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-part-2-2026@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261106
-SUMMARY:🎃 ハロウィン2026：パート2（時間未発表）
+DTSTAMP:20261015T162225Z
+DTSTART;TZID=Asia/Tokyo:20261101T100000
+DTEND;TZID=Asia/Tokyo:20261105T200000
+SUMMARY:🎃 ハロウィン2026：パート2
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違い：色違いボチが登場予定（確率は未発
- 表）\n👻出現予定：ハロウィン衣装のモクロー、おま
- つり衣装のゲンガーなど\n⚠️正式な時間・内容は発表
- され次第更新
+DESCRIPTION:✨色違い確率：ボチ・ハカドッグの色違いが初
+ 登場。ハロウィン衣装のモクロー、ハロウィン飾りの
+ ゲンガーも色違いあり（イベントの確率アップは約1/128
+ ）\n🌿野生：ヒトモシ、ボチ、ハロウィン衣装のモク
+ ロー、ハロウィン飾りのゲンガー（レア）\n⚔️レイド
+ ：1つ星にハットとケープのピカチュウ、リボンのヤバ
+ チャ（1人で倒せる）\n🆕メガヤミラミがスーパーマッ
+ クスに。技「ナイトヘッド＋」を覚えられる\n🎁ボー
+ ナス：GOパスのランク10でアメ2倍、ランク20でほしのす
+ な2倍（デラックスは各3倍）\n⚠️GOパスは11/5 20:00まで
+ 、受け取りは11/7 20:00まで\n📊確率は攻略サイト・コミ
+ ュニティの推定値（公式発表ではない）\nhttps://pokemongo-
+ raku.com/post164408
+URL:https://pokemongo-raku.com/post164408
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎃 ハロウィン2026：パート2
+TRIGGER:-PT60M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-wild-area-sendai-2026@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261109
-SUMMARY:🎉 ワイルドエリア2026：仙台（時間未発表）
+DTSTAMP:20261015T162225Z
+DTSTART;TZID=Asia/Tokyo:20261106T100000
+DTEND;TZID=Asia/Tokyo:20261108T180000
+SUMMARY:🎉 ワイルドエリア2026：仙台（現地イベント）
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違い：確率は未発表\n📍宮城県仙台市（メ
- イン会場：榴岡公園、プレイエリアは宮城県全域）の
- 現地イベント\n⚔️レイド：ザシアン・ザマゼンタ。仙
- 台限定でヒスイヌメイル、ジャケットカイリキーなど\n
- ⚠️チケット（4\,000円）は完売。持っていない人は対
- 象外\nhttps://pokemongo-raku.com/post159305
-URL:https://pokemongo-raku.com/post159305
+DESCRIPTION:✨色違い：キョダイマックスジュラルドン、ダ
+ イマックスディアルガ・パルキアの色違いが登場（確
+ 率は未発表）\n📍宮城県仙台市（メイン会場：榴岡公
+ 園、プレイエリアは宮城県全域）の現地イベント\n⚔️
+ レイド：ザシアン・ザマゼンタ。仙台限定でヒスイヌ
+ メイル、ジャケットカイリキーなど\n⚠️チケット（4\,
+ 000円）は完売。持っていない人は対象外\n📍宮城県内
+ では11/6 5:00〜11/8 18:00にザシアン・ザマゼンタの伝説レ
+ イド、ダイマックスディアルガ・パルキア、キョダイ
+ マックスジュラルドンのマックスバトルも出る\nhttps://p
+ okemongo-raku.com/post162567
+URL:https://pokemongo-raku.com/post162567
 END:VEVENT
 BEGIN:VEVENT
 UID:wild-week-2026-11-09@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:🎉 ワイルドウィーク開始（詳細未発表）
+DTSTAMP:20261015T162225Z
+DTSTART;TZID=Asia/Tokyo:20261109T100000
+DTEND;TZID=Asia/Tokyo:20261113T200000
+SUMMARY:🎉 ワイルドウィーク2026
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違い：未発表\n⚠️11/9（月）から開始とだ
- け発表。終了日や内容は発表され次第更新\nhttps://pokemon
- go-raku.com/post163015
-URL:https://pokemongo-raku.com/post163015
+DESCRIPTION:✨色違い確率：野生のコイル・オンバット・ト
+ ゲデマルは出現率アップ（色違いは約1/512のまま）。ダ
+ イマックスメルタン、ザシアン・ザマゼンタ（約1/20）
+ 、クリムガン・ミミズズ（星3レイド）も色違いあり\n
+ 🆕初登場：ダイマックスレジドラゴ、ダイマックスメ
+ ルタン・メルメタル\n⚔️レイド：ザシアン・ザマゼン
+ タ（伝説・3人以上）、クリムガン・ミミズズ（星3）\n
+ 💥マックスバトル：ダイマックスワンリキー・ラルト
+ ス（期間中ずっと）。日替わりで11/11レジスチル、11/12
+ レジドラゴ、11/13ラティアス・ラティオス\n🎁ボーナス
+ ：リモートレイドパス1日30回（11/14・15は無制限）、ふ
+ しぎなボックスが早く開く\n🏆報酬：GOパス（無料）で
+ ダイマックスメルタン、アメ、マックス粒子など。デ
+ ラックスでぎんのおうかん、しあわせタマゴなど\n⚠️
+ GOパスは11/15 18:00まで\n📊確率は攻略サイト・コミュニ
+ ティの推定値（公式発表ではない）\nhttps://pokemongo-raku.c
+ om/post164755
+URL:https://pokemongo-raku.com/post164755
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎉 ワイルドウィーク2026
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-hour-2026-11-09@pogo-calendar-ja
+DTSTAMP:20261015T162225Z
+DTSTART;TZID=Asia/Tokyo:20261109T180000
+DTEND;TZID=Asia/Tokyo:20261109T190000
+SUMMARY:⚔️ レイドアワー：ザシアン
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い確率：約1/20（伝説レイドと同じ）\n
+ 🎁ほぼすべてのジムにザシアンが出現（ワイルドウィ
+ ーク中）\n📊確率は攻略サイト・コミュニティの推定
+ 値（公式発表ではない）\nhttps://pokemongo-raku.com/post164755
+URL:https://pokemongo-raku.com/post164755
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚔️ レイドアワー：ザシアン
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-hour-2026-11-10@pogo-calendar-ja
+DTSTAMP:20261015T162225Z
+DTSTART;TZID=Asia/Tokyo:20261110T180000
+DTEND;TZID=Asia/Tokyo:20261110T190000
+SUMMARY:⚔️ レイドアワー：ザマゼンタ
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い確率：約1/20（伝説レイドと同じ）\n
+ 🎁ほぼすべてのジムにザマゼンタが出現（ワイルドウ
+ ィーク中）\n📊確率は攻略サイト・コミュニティの推
+ 定値（公式発表ではない）\nhttps://pokemongo-raku.com/post16475
+ 5
+URL:https://pokemongo-raku.com/post164755
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⚔️ レイドアワー：ザマゼンタ
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-wild-area-global-2026-day1@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;TZID=Asia/Tokyo:20261114T100000
 DTEND;TZID=Asia/Tokyo:20261114T180000
 SUMMARY:🎉 ワイルドエリア2026：グローバル（1日目）
@@ -404,8 +524,22 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:meteor-shower-leonids-2026@pogo-calendar-ja
+DTSTAMP:20261015T162225Z
+DTSTART;TZID=Asia/Tokyo:20261114T170000
+DTEND;TZID=Asia/Tokyo:20261119T235900
+SUMMARY:☄️ メテノシャワー：しし座流星群
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い：なし\n☄️野生にメテノ（りゅうせ
+ いのすがた）が出る。毎日17:00〜21:00は流れ星が出てメ
+ テノが出やすい\n🎁期間ごとに7色のうち1色のコアのメ
+ テノが登場（バトルでHPを半分以下にするとコアの姿に
+ なる）\nhttps://pokemongo-raku.com/post163951
+URL:https://pokemongo-raku.com/post163951
+END:VEVENT
+BEGIN:VEVENT
 UID:go-wild-area-global-2026-day2@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;TZID=Asia/Tokyo:20261115T100000
 DTEND;TZID=Asia/Tokyo:20261115T180000
 SUMMARY:🎉 ワイルドエリア2026：グローバル（2日目）
@@ -437,21 +571,25 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:community-day-2026-11@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:🌟 コミュニティ・デイ（対象・時間未発表）
+DTSTAMP:20261015T162225Z
+DTSTART;TZID=Asia/Tokyo:20261121T140000
+DTEND;TZID=Asia/Tokyo:20261121T170000
+SUMMARY:🌟 コミュニティ・デイ（対象未発表）
 TRANSP:TRANSPARENT
 DESCRIPTION:✨色違い確率：対象ポケモンが約1/25（例年の
- 推定）\n⚠️対象ポケモンと時間は発表され次第更新（
- 例年は14:00〜17:00）\n📊確率は攻略サイト・コミュニテ
- ィの推定値（公式発表ではない）\nhttps://pokemongo.com/ja/ne
- ws/save-the-date-s24
-URL:https://pokemongo.com/ja/news/save-the-date-s24
+ 推定）\n⚠️対象ポケモンは発表され次第更新\n📊確率
+ は攻略サイト・コミュニティの推定値（公式発表では
+ ない）\nhttps://pokemongo-raku.com/postcategory/event/community-day
+URL:https://pokemongo-raku.com/postcategory/event/community-day
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌟 コミュニティ・デイ（対象未発表）
+TRIGGER:-PT30M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-2026-11-28@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:💎 スーパーメガレイド・デイ（対象・時間未発
@@ -464,13 +602,41 @@ URL:https://pokemongo.com/ja/news/save-the-date-s24
 END:VEVENT
 BEGIN:VEVENT
 UID:season-twilight-trails-end-2026@pogo-calendar-ja
-DTSTAMP:20261015T161650Z
+DTSTAMP:20261015T162225Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:🎉 シーズン「黄昏の旅路」最終日（時間未発表
- ）
+SUMMARY:🎉 シーズン「黄昏の旅路」終了（10:00まで）
 TRANSP:TRANSPARENT
-DESCRIPTION:⚠️シーズン限定のリサーチやボーナスはこの
- 日まで。GOバトルリーグのシーズン28も終了
+DESCRIPTION:⚠️12/1 10:00でシーズン終了。シーズン限定の
+ リサーチやボーナスはそれまで。GOバトルリーグのシー
+ ズン28も終了\nhttps://pokemongo-raku.com/post161481
+URL:https://pokemongo-raku.com/post161481
+END:VEVENT
+BEGIN:VEVENT
+UID:meteor-shower-geminids-2026@pogo-calendar-ja
+DTSTAMP:20261015T162225Z
+DTSTART;TZID=Asia/Tokyo:20261211T170000
+DTEND;TZID=Asia/Tokyo:20261216T235900
+SUMMARY:☄️ メテノシャワー：ふたご座流星群
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い：なし\n☄️野生にメテノ（りゅうせ
+ いのすがた）が出る。毎日17:00〜21:00は流れ星が出てメ
+ テノが出やすい\n🎁期間ごとに7色のうち1色のコアのメ
+ テノが登場（バトルでHPを半分以下にするとコアの姿に
+ なる）\nhttps://pokemongo-raku.com/post163951
+URL:https://pokemongo-raku.com/post163951
+END:VEVENT
+BEGIN:VEVENT
+UID:go-tour-alola-global-2027@pogo-calendar-ja
+DTSTAMP:20261015T162225Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270301
+SUMMARY:🎉 Pokémon GO Tour：アローラ地方 グローバル（内容
+ ・時間未発表）
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い：未発表\n⚠️世界全域のゲーム内イ
+ ベント。チケットは12月からのシーズンで販売予定。内
+ 容は発表され次第更新\nhttps://pokemongo-raku.com/post163521
+URL:https://pokemongo-raku.com/post163521
 END:VEVENT
 END:VCALENDAR
