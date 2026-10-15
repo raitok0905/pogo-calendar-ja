@@ -387,40 +387,45 @@
   "title": "🐉 伝説レイド：ザシアン（けんのおう）",
   "start": "2026-11-09T10:00",
   "end": "2026-11-13T20:00",
-  "description": "✨色違い確率：約1/20\n📊確率は攻略サイト・コミュニティの推定値（公式発表ではない）",
-  "calendar": "raids"
+  "description": "✨色違い確率：約1/20\n📊確率は攻略サイト・コミュニティの推定値（公式発表ではない）\n👥3人以上\n⚠️ワイルドウィーク期間中",
+  "calendar": "raids",
+  "url": "https://pokemongo-raku.com/post164755"
  },
  {
   "id": "raid-legendary-zamazenta-2026-11-09",
   "title": "🐉 伝説レイド：ザマゼンタ（たてのおう）",
   "start": "2026-11-09T10:00",
   "end": "2026-11-13T20:00",
-  "description": "✨色違い確率：約1/20\n📊確率は攻略サイト・コミュニティの推定値（公式発表ではない）",
-  "calendar": "raids"
+  "description": "✨色違い確率：約1/20\n📊確率は攻略サイト・コミュニティの推定値（公式発表ではない）\n👥3人以上\n⚠️ワイルドウィーク期間中",
+  "calendar": "raids",
+  "url": "https://pokemongo-raku.com/post164755"
  },
  {
   "id": "max-battle-registeel-2026-11-11",
   "title": "💥 マックスバトル：ダイマックスレジスチル",
   "start": "2026-11-11T06:00",
   "end": "2026-11-11T21:00",
-  "description": "✨色違い：未確認\n👥3人以上",
-  "calendar": "raids"
+  "description": "✨色違い：未確認\n👥3人以上\n⚠️ワイルドウィーク期間中の日替わり",
+  "calendar": "raids",
+  "url": "https://pokemongo-raku.com/post164755"
  },
  {
   "id": "max-battle-regidrago-2026-11-12",
   "title": "💥 マックスバトル：ダイマックスレジドラゴ（初登場）",
   "start": "2026-11-12T06:00",
   "end": "2026-11-12T21:00",
-  "description": "✨色違いあり（確率は非公表）\n👥2人以上",
-  "calendar": "raids"
+  "description": "✨色違いあり（確率は非公表）\n👥2人以上\n⚠️ワイルドウィーク期間中の日替わり",
+  "calendar": "raids",
+  "url": "https://pokemongo-raku.com/post164755"
  },
  {
   "id": "max-battle-latias-latios-2026-11-13",
   "title": "💥 マックスバトル：ダイマックスラティアス・ラティオス",
   "start": "2026-11-13T06:00",
   "end": "2026-11-13T21:00",
-  "description": "✨色違い：未確認\n👥ラティアス3人以上、ラティオス2人以上",
-  "calendar": "raids"
+  "description": "✨色違い：未確認\n👥ラティアス3人以上、ラティオス2人以上\n⚠️ワイルドウィーク期間中の日替わり",
+  "calendar": "raids",
+  "url": "https://pokemongo-raku.com/post164755"
  },
  {
   "id": "wa-global-day1-raids-2026",
@@ -444,6 +449,42 @@
   "start": "2026-11-14T05:00",
   "end": "2026-11-15T20:00",
   "description": "✨色違い：初登場（確率は未発表）\n👥20人以上",
+  "calendar": "raids"
+ },
+ {
+  "id": "raid-3star-druddigon-2026-11-09",
+  "title": "⭐ 星3レイド：クリムガン",
+  "start": "2026-11-09T10:00",
+  "end": "2026-11-13T20:00",
+  "description": "✨色違いあり（確率は非公表）\n👥1人から倒せる\n⚠️ワイルドウィーク期間中",
+  "url": "https://pokemongo-raku.com/post164755",
+  "calendar": "raids"
+ },
+ {
+  "id": "raid-3star-orthworm-2026-11-09",
+  "title": "⭐ 星3レイド：ミミズズ",
+  "start": "2026-11-09T10:00",
+  "end": "2026-11-13T20:00",
+  "description": "✨色違いあり（確率は非公表）\n👥1人から倒せる\n⚠️ワイルドウィーク期間中",
+  "url": "https://pokemongo-raku.com/post164755",
+  "calendar": "raids"
+ },
+ {
+  "id": "max-battle-machop-2026-11-09",
+  "title": "💥 マックスバトル：ダイマックスワンリキー",
+  "start": "2026-11-09T10:00",
+  "end": "2026-11-13T20:00",
+  "description": "✨色違い：未確認\n👥1人から倒せる\n⚠️ワイルドウィーク期間中",
+  "url": "https://pokemongo-raku.com/post164755",
+  "calendar": "raids"
+ },
+ {
+  "id": "max-battle-ralts-2026-11-09",
+  "title": "💥 マックスバトル：ダイマックスラルトス",
+  "start": "2026-11-09T10:00",
+  "end": "2026-11-13T20:00",
+  "description": "✨色違い：未確認\n👥1人から倒せる\n⚠️ワイルドウィーク期間中",
+  "url": "https://pokemongo-raku.com/post164755",
   "calendar": "raids"
  }
 ]
