@@ -18,40 +18,23 @@ TZNAME:JST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:raid-shadow-landorus-2026-10-07@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
-DTSTART;TZID=Asia/Tokyo:20261007T060000
-DTEND;TZID=Asia/Tokyo:20261103T210000
-SUMMARY:🌑 シャドウ伝説レイド：シャドウランドロス（
- けしんフォルム）
-TRANSP:TRANSPARENT
-DESCRIPTION:✨色違いあり
-END:VEVENT
-BEGIN:VEVENT
-UID:max-battle-rookidee-2026-10-12@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
-DTSTART;TZID=Asia/Tokyo:20261012T060000
-DTEND;TZID=Asia/Tokyo:20261018T210000
-SUMMARY:💥 マックスバトル：ダイマックスココガラ
-TRANSP:TRANSPARENT
-DESCRIPTION:✨色違いあり
-END:VEVENT
-BEGIN:VEVENT
 UID:fall-marathon-buddy-trek-2026@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;TZID=Asia/Tokyo:20261013T100000
 DTEND;TZID=Asia/Tokyo:20261019T200000
 SUMMARY:🍂 秋の遠足：相棒といっしょ
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違い：ラクライに出会いやすい。10/16 10:00
- 〜はおこうで色違いガーディ（ヒスイのすがた）に出
- 会いやすい\n🆕初登場：アノクサ（おこう・GOパスのタ
- スクで）\n🎁ボーナス：GOパスのランク10でおこうが2時
- 間持続、ランク20でラクライ・ライボルトを相棒にする
- とメガエナジー5倍\n🏆報酬：タイムチャレンジで16\,800
- XP＋マラソンバイザーのピカチュウ（10/19 20:00まで）\n
- ⚠️GOパスの報酬受け取りは10/21 20:00まで\nhttps://pokemongo
- .com/ja/news/fall-marathon-buddy-trek-2026
+DESCRIPTION:✨色違い確率：ラクライは約1/128に確率アップ
+ （通常は約1/512）。10/16 10:00〜はおこうで色違いガーデ
+ ィ（ヒスイのすがた）も確率アップ\n🆕初登場：アノ
+ クサ（おこう・GOパスのタスクで）\n🎁ボーナス：GOパ
+ スのランク10でおこうが2時間持続、ランク20でラクライ
+ ・ライボルトを相棒にするとメガエナジー5倍\n🏆報酬
+ ：タイムチャレンジで16\,800XP＋マラソンバイザーのピ
+ カチュウ（10/19 20:00まで）\n⚠️GOパスの報酬受け取り
+ は10/21 20:00まで\n📊確率は攻略サイト・コミュニティの
+ 推定値（公式発表ではない）\nhttps://pokemongo.com/ja/news/fal
+ l-marathon-buddy-trek-2026
 URL:https://pokemongo.com/ja/news/fall-marathon-buddy-trek-2026
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -61,47 +44,40 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-legendary-dialga-2026-10-14@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;TZID=Asia/Tokyo:20261014T060000
 DTEND;TZID=Asia/Tokyo:20261020T200000
 SUMMARY:🐉 伝説レイド：ディアルガ
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違いあり
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-mega-dragonite-2026-10-14@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
-DTSTART;TZID=Asia/Tokyo:20261014T060000
-DTEND;TZID=Asia/Tokyo:20261020T210000
-SUMMARY:💎 メガレイド：メガカイリュー
-TRANSP:TRANSPARENT
-DESCRIPTION:✨色違いあり
+DESCRIPTION:✨色違い確率：約1/20\n📊確率は攻略サイト・
+ コミュニティの推定値（公式発表ではない）
 END:VEVENT
 BEGIN:VEVENT
 UID:friendship-friday-2026-10-16@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:🤝 仲良しフライデー
 TRANSP:TRANSPARENT
 DESCRIPTION:🎁特別な交換が最大2回、交換のほしのすな20%
- 減、交換でアメXL2個（TL31以上）\n✨交換で色違いにな
- る確率アップ
+ 減、交換でアメXL2個（TL31以上）
 END:VEVENT
 BEGIN:VEVENT
 UID:sandile-hatch-day-2026@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;TZID=Asia/Tokyo:20261017T110000
 DTEND;TZID=Asia/Tokyo:20261017T170000
 SUMMARY:🥚 メグロコふかの日
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違い：2kmタマゴから色違いメグロコがかえ
- りやすい\n🎁ボーナス：孵化距離1/2、孵化時のアメ2倍
- 、フォトディスクで2kmタマゴが出やすい\n🏆報酬：無
- 料タイムチャレンジでふかそうち＋XP。有料版（$1.99）
- はスーパーふかそうち2個・ほしのかけら・孵化距離1/4\
- n⚠️タスクの報酬受け取りは当日17:00まで\nhttps://pokemon
- go.com/ja/news/sandile-hatch-day-2026
+DESCRIPTION:✨色違い確率：2kmタマゴからのメグロコが約1/1
+ 0（通常のタマゴは約1/64）\n🎁ボーナス：孵化距離1/2、
+ 孵化時のアメ2倍、フォトディスクで2kmタマゴが出やす
+ い\n🏆報酬：無料タイムチャレンジでふかそうち＋XP。
+ 有料版（$1.99）はスーパーふかそうち2個・ほしのかけ
+ ら・孵化距離1/4\n⚠️タスクの報酬受け取りは当日17:00
+ まで\n📊確率は攻略サイト・コミュニティの推定値（
+ 公式発表ではない）\nhttps://pokemongo.com/ja/news/sandile-hatch-d
+ ay-2026
 URL:https://pokemongo.com/ja/news/sandile-hatch-day-2026
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -111,7 +87,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:scenic-sunday-2026-10-18@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:🏞️ シーニックサンデー
@@ -121,31 +97,22 @@ DESCRIPTION:🎁野生のポケモンが増える、ルート中の出現
  マテオに1日最大3回会える
 END:VEVENT
 BEGIN:VEVENT
-UID:max-battle-sneasel-2026-10-19@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
-DTSTART;TZID=Asia/Tokyo:20261019T060000
-DTEND;TZID=Asia/Tokyo:20261025T210000
-SUMMARY:💥 マックスバトル：ダイマックスニューラ
-TRANSP:TRANSPARENT
-DESCRIPTION:✨色違いあり
-END:VEVENT
-BEGIN:VEVENT
 UID:max-monday-2026-10-19@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;TZID=Asia/Tokyo:20261019T060000
 DTEND;TZID=Asia/Tokyo:20261019T210000
 SUMMARY:💥 マックスマンデー
 TRANSP:TRANSPARENT
 DESCRIPTION:🎁ボーナス：パワースポットの入れ替わりが
  早くなり、マックスバトルが多く出る\n💥今週のボス
- ：ダイマックスニューラ（✨色違いあり）\n🏆報酬：
- 現地参加で勝利するとふしぎなアメXL+1\nhttps://pokemongo-ra
- ku.com/post163015
+ ：ダイマックスニューラ（色違いあり・確率は非公表
+ ）\n🏆報酬：現地参加で勝利するとふしぎなアメXL+1\nht
+ tps://pokemongo-raku.com/post163015
 URL:https://pokemongo-raku.com/post163015
 END:VEVENT
 BEGIN:VEVENT
 UID:showcase-day-2026-10-20@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;TZID=Asia/Tokyo:20261020T100000
 DTEND;TZID=Asia/Tokyo:20261020T200000
 SUMMARY:🏅 おひろめデイ
@@ -155,32 +122,26 @@ DESCRIPTION:🎁ポケストップおひろめに最大5か所参加でき
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-legendary-palkia-2026-10-21@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;TZID=Asia/Tokyo:20261021T060000
 DTEND;TZID=Asia/Tokyo:20261027T210000
 SUMMARY:🐉 伝説レイド：パルキア
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違いあり\n⚔️10/21（水）18:00〜19:00はレイ
- ドアワー
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-mega-charizard-2026-10-21@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
-DTSTART;TZID=Asia/Tokyo:20261021T060000
-DTEND;TZID=Asia/Tokyo:20261027T210000
-SUMMARY:💎 メガレイド：メガリザードンX・Y
-TRANSP:TRANSPARENT
-DESCRIPTION:✨色違いあり
+DESCRIPTION:✨色違い確率：約1/20\n⚔️10/21（水）18:00〜19:00
+ はレイドアワー\n📊確率は攻略サイト・コミュニティ
+ の推定値（公式発表ではない）
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-hour-2026-10-21@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;TZID=Asia/Tokyo:20261021T180000
 DTEND;TZID=Asia/Tokyo:20261021T190000
 SUMMARY:⚔️ レイドアワー：パルキア
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違いあり\n🎁ほぼすべてのジムに5つ星レ
- イドのパルキアが出現
+DESCRIPTION:✨色違い確率：約1/20（伝説レイドと同じ）\n
+ 🎁ほぼすべてのジムに5つ星レイドのパルキアが出現\n
+ 📊確率は攻略サイト・コミュニティの推定値（公式発
+ 表ではない）
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚔️ レイドアワー：パルキア
@@ -189,7 +150,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-day-2026-10-22@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:🏆 GOバトルリーグデイ
@@ -199,13 +160,15 @@ DESCRIPTION:🎁勝利時のほしのすな4倍、1日のセット数が増
 END:VEVENT
 BEGIN:VEVENT
 UID:spotlight-2026-10-22@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;TZID=Asia/Tokyo:20261022T180000
 DTEND;TZID=Asia/Tokyo:20261022T190000
 SUMMARY:🔦 スポットライトアワー：ネマシュ
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違いあり\n🎁ボーナス：捕獲時のほしのす
- な2倍
+DESCRIPTION:✨色違い確率：約1/512（確率アップなし。たく
+ さん出るので数で狙える）\n🎁ボーナス：捕獲時のほ
+ しのすな2倍\n📊確率は攻略サイト・コミュニティの推
+ 定値（公式発表ではない）
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:🔦 スポットライトアワー：ネマシュ
@@ -214,29 +177,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:friendship-friday-2026-10-23@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:🤝 仲良しフライデー
 TRANSP:TRANSPARENT
 DESCRIPTION:🎁特別な交換が最大2回、交換のほしのすな20%
- 減、交換でアメXL2個（TL31以上）\n✨交換で色違いにな
- る確率アップ
+ 減、交換でアメXL2個（TL31以上）
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-lake-trio-2026@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;TZID=Asia/Tokyo:20261024T140000
 DTEND;TZID=Asia/Tokyo:20261024T170000
 SUMMARY:💥 マックスバトルデイ：ダイマックスユクシー
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違い：ダイマックスユクシーは色違いあり
- （勝利後の遭遇で出る可能性）\n🏆報酬：ほしのすな
- 、XP、ふしぎなアメXL、ユクシーのアメ・アメXL、プレ
- ミアボール10個など。現地参加は+2500XP・プレミアボー
- ル+2\n👥人数：最大4人（リモート可）。3人以上推奨\n
- ⚠️日本で出るのはユクシーのみ（エムリット・アグ
- ノムは他地域）。1回800MP必要\nhttps://pokemongo-raku.com/post16
+DESCRIPTION:✨色違い確率：約1/12（過去のマックスバトル
+ デイからの推定）\n🏆報酬：ほしのすな、XP、ふしぎな
+ アメXL、ユクシーのアメ・アメXL、プレミアボール10個
+ など。現地参加は+2500XP・プレミアボール+2\n👥人数：
+ 最大4人（リモート可）。3人以上推奨\n⚠️日本で出る
+ のはユクシーのみ（エムリット・アグノムは他地域）
+ 。1回800MP必要\n📊確率は攻略サイト・コミュニティの
+ 推定値（公式発表ではない）\nhttps://pokemongo-raku.com/post16
  3995
 URL:https://pokemongo-raku.com/post163995
 BEGIN:VALARM
@@ -248,7 +211,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:scenic-sunday-2026-10-25@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:🏞️ シーニックサンデー
@@ -258,46 +221,39 @@ DESCRIPTION:🎁野生のポケモンが増える、ルート中の出現
  マテオに1日最大3回会える
 END:VEVENT
 BEGIN:VEVENT
-UID:max-battle-sableye-2026-10-26@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
-DTSTART;TZID=Asia/Tokyo:20261026T060000
-DTEND;TZID=Asia/Tokyo:20261101T210000
-SUMMARY:💥 マックスバトル：ダイマックスヤミラミ
-TRANSP:TRANSPARENT
-DESCRIPTION:✨色違いあり
-END:VEVENT
-BEGIN:VEVENT
 UID:max-monday-2026-10-26@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;TZID=Asia/Tokyo:20261026T060000
 DTEND;TZID=Asia/Tokyo:20261026T210000
 SUMMARY:💥 マックスマンデー
 TRANSP:TRANSPARENT
 DESCRIPTION:🎁ボーナス：パワースポットの入れ替わりが
  早くなり、マックスバトルが多く出る\n💥今週のボス
- ：ダイマックスヤミラミ（✨色違いあり）\n🏆報酬：
- 現地参加で勝利するとふしぎなアメXL+1\nhttps://pokemongo-ra
- ku.com/post163015
+ ：ダイマックスヤミラミ（色違いあり・確率は非公表
+ ）\n🏆報酬：現地参加で勝利するとふしぎなアメXL+1\nht
+ tps://pokemongo-raku.com/post163015
 URL:https://pokemongo-raku.com/post163015
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-part-1-2026@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;TZID=Asia/Tokyo:20261027T100000
 DTEND;TZID=Asia/Tokyo:20261101T100000
 SUMMARY:🎃 ハロウィン2026：パート1
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違い：野生でトップハットのズバット、ヨ
- マワル、いたずら飾りのポッチャマ。レイドでハット
- とケープのピカチュウ、リボンのヤバチャ\n🎁ボーナ
+DESCRIPTION:✨色違い確率：野生のトップハットのズバット
+ 、ヨマワル、いたずら飾りのポッチャマが約1/128に確率
+ アップ（通常は約1/512）。レイドのハットとケープのピ
+ カチュウ、リボンのヤバチャも色違いあり\n🎁ボーナ
  ス：GOパスのランク10で捕獲時のアメ2倍、ランク20で捕
  獲時のほしのすな2倍（デラックスは各3倍）\n⚔️レイ
  ド：1つ星にハットとケープのピカチュウ、リボンのヤ
  バチャ\n🏆報酬：GOパス（無料）でふしぎなアメ・ハイ
  パーボールなど。デラックスでパティシエの着せ替え
  ・アメXL・プレミアムバトルパスなど\n⚠️GOパスは11/5 
- 20:00まで、受け取りは11/7 20:00まで\nhttps://pokemongo.com/ja/ne
- ws/halloween-part-1-2026
+ 20:00まで、受け取りは11/7 20:00まで\n📊確率は攻略サイ
+ ト・コミュニティの推定値（公式発表ではない）\nhttps:
+ //pokemongo.com/ja/news/halloween-part-1-2026
 URL:https://pokemongo.com/ja/news/halloween-part-1-2026
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -307,7 +263,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:showcase-day-2026-10-27@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;TZID=Asia/Tokyo:20261027T100000
 DTEND;TZID=Asia/Tokyo:20261027T200000
 SUMMARY:🏅 おひろめデイ
@@ -317,34 +273,28 @@ DESCRIPTION:🎁ポケストップおひろめに最大5か所参加でき
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-legendary-giratina-2026-10-28@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;TZID=Asia/Tokyo:20261028T060000
 DTEND;TZID=Asia/Tokyo:20261103T210000
 SUMMARY:🐉 伝説レイド：ギラティナ（オリジンフォルム
  ）
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違いあり\n⚔️10/28（水）18:00〜19:00はレイ
- ドアワー
-END:VEVENT
-BEGIN:VEVENT
-UID:raid-mega-sableye-2026-10-28@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
-DTSTART;TZID=Asia/Tokyo:20261028T060000
-DTEND;TZID=Asia/Tokyo:20261103T210000
-SUMMARY:💎 メガレイド：メガヤミラミ
-TRANSP:TRANSPARENT
-DESCRIPTION:✨色違いあり
+DESCRIPTION:✨色違い確率：約1/20\n⚔️10/28（水）18:00〜19:00
+ はレイドアワー\n📊確率は攻略サイト・コミュニティ
+ の推定値（公式発表ではない）
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-hour-2026-10-28@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;TZID=Asia/Tokyo:20261028T180000
 DTEND;TZID=Asia/Tokyo:20261028T190000
 SUMMARY:⚔️ レイドアワー：ギラティナ（オリジンフォル
  ム）
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違いあり\n🎁ほぼすべてのジムに5つ星レ
- イドのギラティナ（オリジンフォルム）が出現
+DESCRIPTION:✨色違い確率：約1/20（伝説レイドと同じ）\n
+ 🎁ほぼすべてのジムに5つ星レイドのギラティナ（オリ
+ ジンフォルム）が出現\n📊確率は攻略サイト・コミュ
+ ニティの推定値（公式発表ではない）
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:⚔️ レイドアワー：ギラティナ（オリジンフ
@@ -354,7 +304,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-day-2026-10-29@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:🏆 GOバトルリーグデイ
@@ -364,12 +314,15 @@ DESCRIPTION:🎁勝利時のほしのすな4倍、1日のセット数が増
 END:VEVENT
 BEGIN:VEVENT
 UID:spotlight-2026-10-29@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;TZID=Asia/Tokyo:20261029T180000
 DTEND;TZID=Asia/Tokyo:20261029T190000
 SUMMARY:🔦 スポットライトアワー：ゴース
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違いあり\n🎁ボーナス：進化時のXP2倍
+DESCRIPTION:✨色違い確率：約1/512（確率アップなし。たく
+ さん出るので数で狙える）\n🎁ボーナス：進化時のXP2
+ 倍\n📊確率は攻略サイト・コミュニティの推定値（公
+ 式発表ではない）
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:🔦 スポットライトアワー：ゴース
@@ -378,32 +331,32 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:friendship-friday-2026-10-30@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:🤝 仲良しフライデー
 TRANSP:TRANSPARENT
 DESCRIPTION:🎁特別な交換が最大2回、交換のほしのすな20%
- 減、交換でアメXL2個（TL31以上）\n✨交換で色違いにな
- る確率アップ
+ 減、交換でアメXL2個（TL31以上）
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-chandelure-2026@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;TZID=Asia/Tokyo:20261031T140000
 DTEND;TZID=Asia/Tokyo:20261031T170000
 SUMMARY:💎 スーパーメガレイド・デイ：メガシャンデラ
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違い：スーパーメガレイドで色違いシャン
- デラの確率アップ\n🎁ボーナス：ジムのフォトディス
- クから無料レイドパス最大6枚、リモートレイドの上限2
- 0回。捕まえたシャンデラはメガレベル1から\n🏆報酬：
- タイムリサーチでプレミアムバトルパス＋バンギラス
- 。新たにスーパーマックスで技「あやしいかぜ＋」を
- 覚えられる\n🎫有料チケット（$4.99）：レイドパス最大
- 14枚、アメXLが出やすい、+5000XP・+5000ほしのすな\n👥人
- 数：7人以上、できれば10人以上推奨\nhttps://pokemongo.com/ne
- ws/chandelure-super-mega-raid-day-2026
+DESCRIPTION:✨色違い確率：スーパーメガレイドで色違いシ
+ ャンデラが確率アップ（倍率は非公表。通常のメガレ
+ イドは約1/128）\n🎁ボーナス：ジムのフォトディスクか
+ ら無料レイドパス最大6枚、リモートレイドの上限20回
+ 。捕まえたシャンデラはメガレベル1から\n🏆報酬：タ
+ イムリサーチでプレミアムバトルパス＋バンギラス。
+ 新たにスーパーマックスで技「あやしいかぜ＋」を覚
+ えられる\n🎫有料チケット（$4.99）：レイドパス最大14
+ 枚、アメXLが出やすい、+5000XP・+5000ほしのすな\n👥人数
+ ：7人以上、できれば10人以上推奨\nhttps://pokemongo.com/news/
+ chandelure-super-mega-raid-day-2026
 URL:https://pokemongo.com/news/chandelure-super-mega-raid-day-2026
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -414,14 +367,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-part-2-2026@pogo-calendar-ja
-DTSTAMP:20261015T155713Z
+DTSTAMP:20261015T160818Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261106
 SUMMARY:🎃 ハロウィン2026：パート2（時間未発表）
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違い：色違いボチが登場予定（予告情報）
- \n👻出現予定：ハロウィン衣装のモクロー、おまつり
- 衣装のゲンガーなど\n⚠️正式な時間・内容は発表され
- 次第更新
+DESCRIPTION:✨色違い：色違いボチが登場予定（確率は未発
+ 表）\n👻出現予定：ハロウィン衣装のモクロー、おま
+ つり衣装のゲンガーなど\n⚠️正式な時間・内容は発表
+ され次第更新
 END:VEVENT
 END:VCALENDAR
