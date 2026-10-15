@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:fall-marathon-buddy-trek-2026@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;TZID=Asia/Tokyo:20261013T100000
 DTEND;TZID=Asia/Tokyo:20261019T200000
 SUMMARY:🍂 秋の遠足：相棒といっしょ
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:friendship-friday-2026-10-16@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:🤝 仲良しフライデー
@@ -54,7 +54,7 @@ DESCRIPTION:🎁特別な交換が最大2回、交換のほしのすな20%
 END:VEVENT
 BEGIN:VEVENT
 UID:sandile-hatch-day-2026@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;TZID=Asia/Tokyo:20261017T110000
 DTEND;TZID=Asia/Tokyo:20261017T170000
 SUMMARY:🥚 メグロコふかの日
@@ -77,7 +77,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:scenic-sunday-2026-10-18@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:🏞️ シーニックサンデー
@@ -88,7 +88,7 @@ DESCRIPTION:🎁野生のポケモンが増える、ルート中の出現
 END:VEVENT
 BEGIN:VEVENT
 UID:max-monday-2026-10-19@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;TZID=Asia/Tokyo:20261019T060000
 DTEND;TZID=Asia/Tokyo:20261019T210000
 SUMMARY:💥 マックスマンデー
@@ -102,7 +102,7 @@ URL:https://pokemongo-raku.com/post163015
 END:VEVENT
 BEGIN:VEVENT
 UID:showcase-day-2026-10-20@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;TZID=Asia/Tokyo:20261020T100000
 DTEND;TZID=Asia/Tokyo:20261020T200000
 SUMMARY:🏅 おひろめデイ
@@ -112,7 +112,7 @@ DESCRIPTION:🎁ポケストップおひろめに最大5か所参加でき
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-hour-2026-10-21@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;TZID=Asia/Tokyo:20261021T180000
 DTEND;TZID=Asia/Tokyo:20261021T190000
 SUMMARY:⚔️ レイドアワー：パルキア
@@ -129,7 +129,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-day-2026-10-22@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:🏆 GOバトルリーグデイ
@@ -139,7 +139,7 @@ DESCRIPTION:🎁勝利時のほしのすな4倍、1日のセット数が増
 END:VEVENT
 BEGIN:VEVENT
 UID:spotlight-2026-10-22@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;TZID=Asia/Tokyo:20261022T180000
 DTEND;TZID=Asia/Tokyo:20261022T190000
 SUMMARY:🔦 スポットライトアワー：ネマシュ
@@ -156,7 +156,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:friendship-friday-2026-10-23@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:🤝 仲良しフライデー
@@ -166,7 +166,7 @@ DESCRIPTION:🎁特別な交換が最大2回、交換のほしのすな20%
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-lake-trio-2026@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;TZID=Asia/Tokyo:20261024T140000
 DTEND;TZID=Asia/Tokyo:20261024T170000
 SUMMARY:💥 マックスバトルデイ：ダイマックスユクシー
@@ -190,7 +190,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:scenic-sunday-2026-10-25@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:🏞️ シーニックサンデー
@@ -201,7 +201,7 @@ DESCRIPTION:🎁野生のポケモンが増える、ルート中の出現
 END:VEVENT
 BEGIN:VEVENT
 UID:max-monday-2026-10-26@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;TZID=Asia/Tokyo:20261026T060000
 DTEND;TZID=Asia/Tokyo:20261026T210000
 SUMMARY:💥 マックスマンデー
@@ -215,7 +215,7 @@ URL:https://pokemongo-raku.com/post163015
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-part-1-2026@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;TZID=Asia/Tokyo:20261027T100000
 DTEND;TZID=Asia/Tokyo:20261101T100000
 SUMMARY:🎃 ハロウィン2026：パート1
@@ -242,7 +242,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:showcase-day-2026-10-27@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;TZID=Asia/Tokyo:20261027T100000
 DTEND;TZID=Asia/Tokyo:20261027T200000
 SUMMARY:🏅 おひろめデイ
@@ -252,7 +252,7 @@ DESCRIPTION:🎁ポケストップおひろめに最大5か所参加でき
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-hour-2026-10-28@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;TZID=Asia/Tokyo:20261028T180000
 DTEND;TZID=Asia/Tokyo:20261028T190000
 SUMMARY:⚔️ レイドアワー：ギラティナ（オリジンフォル
@@ -271,7 +271,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-day-2026-10-29@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:🏆 GOバトルリーグデイ
@@ -281,7 +281,7 @@ DESCRIPTION:🎁勝利時のほしのすな4倍、1日のセット数が増
 END:VEVENT
 BEGIN:VEVENT
 UID:spotlight-2026-10-29@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;TZID=Asia/Tokyo:20261029T180000
 DTEND;TZID=Asia/Tokyo:20261029T190000
 SUMMARY:🔦 スポットライトアワー：ゴース
@@ -298,7 +298,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:friendship-friday-2026-10-30@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:🤝 仲良しフライデー
@@ -308,7 +308,7 @@ DESCRIPTION:🎁特別な交換が最大2回、交換のほしのすな20%
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-chandelure-2026@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;TZID=Asia/Tokyo:20261031T140000
 DTEND;TZID=Asia/Tokyo:20261031T170000
 SUMMARY:💎 スーパーメガレイド・デイ：メガシャンデラ
@@ -334,7 +334,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-part-2-2026@pogo-calendar-ja
-DTSTAMP:20261015T161125Z
+DTSTAMP:20261015T161650Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261106
 SUMMARY:🎃 ハロウィン2026：パート2（時間未発表）
@@ -343,5 +343,134 @@ DESCRIPTION:✨色違い：色違いボチが登場予定（確率は未発
  表）\n👻出現予定：ハロウィン衣装のモクロー、おま
  つり衣装のゲンガーなど\n⚠️正式な時間・内容は発表
  され次第更新
+END:VEVENT
+BEGIN:VEVENT
+UID:go-wild-area-sendai-2026@pogo-calendar-ja
+DTSTAMP:20261015T161650Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY:🎉 ワイルドエリア2026：仙台（時間未発表）
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い：確率は未発表\n📍宮城県仙台市（メ
+ イン会場：榴岡公園、プレイエリアは宮城県全域）の
+ 現地イベント\n⚔️レイド：ザシアン・ザマゼンタ。仙
+ 台限定でヒスイヌメイル、ジャケットカイリキーなど\n
+ ⚠️チケット（4\,000円）は完売。持っていない人は対
+ 象外\nhttps://pokemongo-raku.com/post159305
+URL:https://pokemongo-raku.com/post159305
+END:VEVENT
+BEGIN:VEVENT
+UID:wild-week-2026-11-09@pogo-calendar-ja
+DTSTAMP:20261015T161650Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🎉 ワイルドウィーク開始（詳細未発表）
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い：未発表\n⚠️11/9（月）から開始とだ
+ け発表。終了日や内容は発表され次第更新\nhttps://pokemon
+ go-raku.com/post163015
+URL:https://pokemongo-raku.com/post163015
+END:VEVENT
+BEGIN:VEVENT
+UID:go-wild-area-global-2026-day1@pogo-calendar-ja
+DTSTAMP:20261015T161650Z
+DTSTART;TZID=Asia/Tokyo:20261114T100000
+DTEND;TZID=Asia/Tokyo:20261114T180000
+SUMMARY:🎉 ワイルドエリア2026：グローバル（1日目）
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い確率：チケット所持で確率アップ（倍
+ 率は未発表。過去の有料イベントは約1/64）。ダイマッ
+ クスディアルガ、キョダイマックスジュラルドンの色
+ 違いが初登場\n💥マックスバトル：ダイマックスディ
+ アルガ（土曜限定・3人以上）、キョダイマックスジュ
+ ラルドン（20人以上）\n⚔️レイド：ゼクロム、ホワイ
+ トキュレム、ジャケットカイリキー（星3）\n🌿野生：
+ アローラナッシー、ハッサム、フライゴン、トドゼル
+ ガ、メタグロス、エンペルト、ジバコイル、ローブシ
+ ン、オノノクス\n🎁ボーナス：無料レイドパス1日3枚（
+ チケットで6枚）、マックス粒子1日1\,600（チケットで3\,
+ 200）、特別な交換1日最大6回・ほしのすな1/2、チームコ
+ ラボ8時間\n🎫有料チケット：色違い確率アップ、アメ2
+ 倍、おこう・ルアー2倍、ラティアス・ラティオス出現
+ 、分岐型スペシャルリサーチ（値段は未発表）\n⚠️野
+ 生の「つよいポケモン」はPL40〜45で逃げやすい\n📊確
+ 率は攻略サイト・コミュニティの推定値（公式発表で
+ はない）\nhttps://pokemongo-raku.com/?p=162577
+URL:https://pokemongo-raku.com/?p=162577
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎉 ワイルドエリア2026：グローバル（1日目）
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-wild-area-global-2026-day2@pogo-calendar-ja
+DTSTAMP:20261015T161650Z
+DTSTART;TZID=Asia/Tokyo:20261115T100000
+DTEND;TZID=Asia/Tokyo:20261115T180000
+SUMMARY:🎉 ワイルドエリア2026：グローバル（2日目）
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い確率：チケット所持で確率アップ（倍
+ 率は未発表。過去の有料イベントは約1/64）。ダイマッ
+ クスパルキア、キョダイマックスジュラルドンの色違
+ いが初登場\n💥マックスバトル：ダイマックスパルキ
+ ア（日曜限定・3人以上）、キョダイマックスジュラル
+ ドン（20人以上）\n⚔️レイド：レシラム、ブラックキ
+ ュレム、ジャケットカイリキー（星3）\n🌿野生：マリ
+ ルリ、キングドラ、ボスゴドラ、ナットレイ、サザン
+ ドラ、ヌメルゴン、オンバーン、デカヌチャン、ドオ
+ ー\n🎁ボーナス：無料レイドパス1日3枚（チケットで6
+ 枚）、マックス粒子1日1\,600（チケットで3\,200）、特別
+ な交換1日最大6回・ほしのすな1/2、チームコラボ8時間\n
+ 🎫有料チケット：色違い確率アップ、アメ2倍、おこう
+ ・ルアー2倍、ラティアス・ラティオス出現、分岐型ス
+ ペシャルリサーチ（値段は未発表）\n⚠️野生の「つよ
+ いポケモン」はPL40〜45で逃げやすい\n📊確率は攻略サ
+ イト・コミュニティの推定値（公式発表ではない）\nhtt
+ ps://pokemongo-raku.com/?p=162577
+URL:https://pokemongo-raku.com/?p=162577
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🎉 ワイルドエリア2026：グローバル（2日目）
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:community-day-2026-11@pogo-calendar-ja
+DTSTAMP:20261015T161650Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:🌟 コミュニティ・デイ（対象・時間未発表）
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い確率：対象ポケモンが約1/25（例年の
+ 推定）\n⚠️対象ポケモンと時間は発表され次第更新（
+ 例年は14:00〜17:00）\n📊確率は攻略サイト・コミュニテ
+ ィの推定値（公式発表ではない）\nhttps://pokemongo.com/ja/ne
+ ws/save-the-date-s24
+URL:https://pokemongo.com/ja/news/save-the-date-s24
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-2026-11-28@pogo-calendar-ja
+DTSTAMP:20261015T161650Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:💎 スーパーメガレイド・デイ（対象・時間未発
+ 表）
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い確率：未発表\n⚠️対象ポケモンと時
+ 間は発表され次第更新（10/31は14:00〜17:00）\nhttps://pokemon
+ go.com/ja/news/save-the-date-s24
+URL:https://pokemongo.com/ja/news/save-the-date-s24
+END:VEVENT
+BEGIN:VEVENT
+UID:season-twilight-trails-end-2026@pogo-calendar-ja
+DTSTAMP:20261015T161650Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:🎉 シーズン「黄昏の旅路」最終日（時間未発表
+ ）
+TRANSP:TRANSPARENT
+DESCRIPTION:⚠️シーズン限定のリサーチやボーナスはこの
+ 日まで。GOバトルリーグのシーズン28も終了
 END:VEVENT
 END:VCALENDAR
