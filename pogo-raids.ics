@@ -20,7 +20,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:raid-shadow-landorus-2026-10-07@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261007T060000
 DTEND;TZID=Asia/Tokyo:20261103T210000
 SUMMARY:🌑 シャドウ伝説レイド：シャドウランドロス（
@@ -32,7 +32,7 @@ DESCRIPTION:✨色違い確率：約1/20（伝説ポケモンと同じ）\n
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-rookidee-2026-10-12@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261012T060000
 DTEND;TZID=Asia/Tokyo:20261018T210000
 SUMMARY:💥 マックスバトル：ダイマックスココガラ
@@ -41,7 +41,7 @@ DESCRIPTION:✨色違いあり（確率は非公表）
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-legendary-dialga-2026-10-14@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261014T060000
 DTEND;TZID=Asia/Tokyo:20261020T200000
 SUMMARY:🐉 伝説レイド：ディアルガ
@@ -51,7 +51,7 @@ DESCRIPTION:✨色違い確率：約1/20\n📊確率は攻略サイト・
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-mega-dragonite-2026-10-14@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261014T060000
 DTEND;TZID=Asia/Tokyo:20261020T210000
 SUMMARY:💎 メガレイド：メガカイリュー
@@ -61,7 +61,7 @@ DESCRIPTION:✨色違い確率：約1/128\n📊確率は攻略サイト・
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-sneasel-2026-10-19@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261019T060000
 DTEND;TZID=Asia/Tokyo:20261025T210000
 SUMMARY:💥 マックスバトル：ダイマックスニューラ
@@ -70,7 +70,7 @@ DESCRIPTION:✨色違いあり（確率は非公表）
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-legendary-palkia-2026-10-21@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261021T060000
 DTEND;TZID=Asia/Tokyo:20261027T210000
 SUMMARY:🐉 伝説レイド：パルキア
@@ -81,17 +81,31 @@ DESCRIPTION:✨色違い確率：約1/20\n⚔️10/21（水）18:00〜19:00
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-mega-charizard-2026-10-21@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261021T060000
 DTEND;TZID=Asia/Tokyo:20261027T210000
-SUMMARY:💎 メガレイド：メガリザードンX・Y
+SUMMARY:💎 メガレイド：メガリザードンX
 TRANSP:TRANSPARENT
 DESCRIPTION:✨色違い確率：約1/128\n📊確率は攻略サイト・
- コミュニティの推定値（公式発表ではない）
+ コミュニティの推定値（公式発表ではない）\nhttps://poke
+ mongo-raku.com/post28147
+URL:https://pokemongo-raku.com/post28147
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-mega-charizard-y-2026-10-21@pogo-calendar-ja
+DTSTAMP:20261019T000728Z
+DTSTART;TZID=Asia/Tokyo:20261021T060000
+DTEND;TZID=Asia/Tokyo:20261027T210000
+SUMMARY:💎 メガレイド：メガリザードンY
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い確率：約1/128\n📊確率は攻略サイト・
+ コミュニティの推定値（公式発表ではない）\nhttps://poke
+ mongo-raku.com/post28157
+URL:https://pokemongo-raku.com/post28157
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-hour-2026-10-21@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261021T180000
 DTEND;TZID=Asia/Tokyo:20261021T190000
 SUMMARY:⚔️ レイドアワー：パルキア
@@ -107,8 +121,23 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-battle-uxie-2026-10-24@pogo-calendar-ja
+DTSTAMP:20261019T000728Z
+DTSTART;TZID=Asia/Tokyo:20261024T140000
+DTEND;TZID=Asia/Tokyo:20261024T170000
+SUMMARY:💥 マックスバトル：ダイマックスユクシー
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い確率：約1/12（過去のマックスバトル
+ デイからの推定）\n👥2人から（最大4人・リモート可）
+ \n⚠️マックスバトルデイ期間中。日本（アジア太平洋
+ ）で出るのはユクシーのみ\n📊確率は攻略サイト・コ
+ ミュニティの推定値（公式発表ではない）\nhttps://pokemon
+ go-raku.com/post163978
+URL:https://pokemongo-raku.com/post163978
+END:VEVENT
+BEGIN:VEVENT
 UID:max-battle-sableye-2026-10-26@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261026T060000
 DTEND;TZID=Asia/Tokyo:20261101T210000
 SUMMARY:💥 マックスバトル：ダイマックスヤミラミ
@@ -116,8 +145,32 @@ TRANSP:TRANSPARENT
 DESCRIPTION:✨色違いあり（確率は非公表）
 END:VEVENT
 BEGIN:VEVENT
+UID:raid-1star-pikachu-hat-cape-2026-10-27@pogo-calendar-ja
+DTSTAMP:20261019T000728Z
+DTSTART;TZID=Asia/Tokyo:20261027T100000
+DTEND;TZID=Asia/Tokyo:20261105T200000
+SUMMARY:⭐ 星1レイド：ハットとケープのピカチュウ
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違いあり（確率は非公表）\n👥1人から倒
+ せる\n⚠️ハロウィン2026（パート1・2）期間中\nhttps://po
+ kemongo-raku.com/post164228
+URL:https://pokemongo-raku.com/post164228
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-1star-sinistea-ribbon-2026-10-27@pogo-calendar-ja
+DTSTAMP:20261019T000728Z
+DTSTART;TZID=Asia/Tokyo:20261027T100000
+DTEND;TZID=Asia/Tokyo:20261105T200000
+SUMMARY:⭐ 星1レイド：リボンのヤバチャ
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違いあり（確率は非公表）\n👥1人から倒
+ せる\n⚠️ハロウィン2026（パート1・2）期間中\nhttps://po
+ kemongo-raku.com/post164228
+URL:https://pokemongo-raku.com/post164228
+END:VEVENT
+BEGIN:VEVENT
 UID:raid-legendary-giratina-2026-10-28@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261028T060000
 DTEND;TZID=Asia/Tokyo:20261103T210000
 SUMMARY:🐉 伝説レイド：ギラティナ（オリジンフォルム
@@ -129,7 +182,7 @@ DESCRIPTION:✨色違い確率：約1/20\n⚔️10/28（水）18:00〜19:00
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-mega-sableye-2026-10-28@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261028T060000
 DTEND;TZID=Asia/Tokyo:20261103T210000
 SUMMARY:💎 メガレイド：メガヤミラミ
@@ -139,7 +192,7 @@ DESCRIPTION:✨色違い確率：約1/128\n📊確率は攻略サイト・
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-hour-2026-10-28@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261028T180000
 DTEND;TZID=Asia/Tokyo:20261028T190000
 SUMMARY:⚔️ レイドアワー：ギラティナ（オリジンフォル
@@ -157,8 +210,22 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:raid-super-mega-chandelure-2026-10-31@pogo-calendar-ja
+DTSTAMP:20261019T000728Z
+DTSTART;TZID=Asia/Tokyo:20261031T140000
+DTEND;TZID=Asia/Tokyo:20261031T170000
+SUMMARY:💎 スーパーメガレイド：メガシャンデラ
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い確率：確率アップ（倍率は非公表。攻
+ 略サイトの予想は約1/10）\n👥7人以上（10人以上推奨）\
+ n⚠️スーパーメガレイド・デイ期間中\n📊確率は攻略
+ サイト・コミュニティの推定値（公式発表ではない）\n
+ https://pokemongo-raku.com/post164396
+URL:https://pokemongo-raku.com/post164396
+END:VEVENT
+BEGIN:VEVENT
 UID:max-battle-machop-2026-11-09@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261109T100000
 DTEND;TZID=Asia/Tokyo:20261113T200000
 SUMMARY:💥 マックスバトル：ダイマックスワンリキー
@@ -169,7 +236,7 @@ URL:https://pokemongo-raku.com/post164755
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-ralts-2026-11-09@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261109T100000
 DTEND;TZID=Asia/Tokyo:20261113T200000
 SUMMARY:💥 マックスバトル：ダイマックスラルトス
@@ -180,7 +247,7 @@ URL:https://pokemongo-raku.com/post164755
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-3star-druddigon-2026-11-09@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261109T100000
 DTEND;TZID=Asia/Tokyo:20261113T200000
 SUMMARY:⭐ 星3レイド：クリムガン
@@ -192,7 +259,7 @@ URL:https://pokemongo-raku.com/post164755
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-3star-orthworm-2026-11-09@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261109T100000
 DTEND;TZID=Asia/Tokyo:20261113T200000
 SUMMARY:⭐ 星3レイド：ミミズズ
@@ -204,7 +271,7 @@ URL:https://pokemongo-raku.com/post164755
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-legendary-zacian-2026-11-09@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261109T100000
 DTEND;TZID=Asia/Tokyo:20261113T200000
 SUMMARY:🐉 伝説レイド：ザシアン（けんのおう）
@@ -217,7 +284,7 @@ URL:https://pokemongo-raku.com/post164755
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-legendary-zamazenta-2026-11-09@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261109T100000
 DTEND;TZID=Asia/Tokyo:20261113T200000
 SUMMARY:🐉 伝説レイド：ザマゼンタ（たてのおう）
@@ -230,7 +297,7 @@ URL:https://pokemongo-raku.com/post164755
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-hour-2026-11-09@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261109T180000
 DTEND;TZID=Asia/Tokyo:20261109T190000
 SUMMARY:⚔️ レイドアワー：ザシアン
@@ -248,7 +315,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-hour-2026-11-10@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261110T180000
 DTEND;TZID=Asia/Tokyo:20261110T190000
 SUMMARY:⚔️ レイドアワー：ザマゼンタ
@@ -267,18 +334,19 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-registeel-2026-11-11@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261111T060000
 DTEND;TZID=Asia/Tokyo:20261111T210000
 SUMMARY:💥 マックスバトル：ダイマックスレジスチル
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違い：未確認\n👥3人以上\n⚠️ワイルドウ
- ィーク期間中の日替わり\nhttps://pokemongo-raku.com/post164755
+DESCRIPTION:✨色違いあり（確率は非公表）\n👥3人以上\n⚠
+ ️ワイルドウィーク期間中の日替わり\nhttps://pokemongo-rak
+ u.com/post164755
 URL:https://pokemongo-raku.com/post164755
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-regidrago-2026-11-12@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261112T060000
 DTEND;TZID=Asia/Tokyo:20261112T210000
 SUMMARY:💥 マックスバトル：ダイマックスレジドラゴ（
@@ -291,52 +359,127 @@ URL:https://pokemongo-raku.com/post164755
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-latias-latios-2026-11-13@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261113T060000
 DTEND;TZID=Asia/Tokyo:20261113T210000
-SUMMARY:💥 マックスバトル：ダイマックスラティアス・
- ラティオス
+SUMMARY:💥 マックスバトル：ダイマックスラティアス
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違い：未確認\n👥ラティアス3人以上、ラ
- ティオス2人以上\n⚠️ワイルドウィーク期間中の日替
- わり\nhttps://pokemongo-raku.com/post164755
+DESCRIPTION:✨色違いあり（確率は非公表）\n👥3人以上\n⚠
+ ️ワイルドウィーク期間中の日替わり（11/13のみ）\nhttp
+ s://pokemongo-raku.com/post164755
 URL:https://pokemongo-raku.com/post164755
 END:VEVENT
 BEGIN:VEVENT
+UID:max-battle-latios-2026-11-13@pogo-calendar-ja
+DTSTAMP:20261019T000728Z
+DTSTART;TZID=Asia/Tokyo:20261113T060000
+DTEND;TZID=Asia/Tokyo:20261113T210000
+SUMMARY:💥 マックスバトル：ダイマックスラティオス
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違いあり（確率は非公表）\n👥2人以上\n⚠
+ ️ワイルドウィーク期間中の日替わり（11/13のみ）\nhttp
+ s://pokemongo-raku.com/post164755
+URL:https://pokemongo-raku.com/post164755
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-dialga-2026-11-14@pogo-calendar-ja
+DTSTAMP:20261019T000728Z
+DTSTART;TZID=Asia/Tokyo:20261114T050000
+DTEND;TZID=Asia/Tokyo:20261114T200000
+SUMMARY:💥 マックスバトル：ダイマックスディアルガ
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い：初登場（確率は未発表）\n👥3人以
+ 上\n⚠️ワイルドエリア2026グローバル期間中（土曜限
+ 定）\nhttps://pokemongo-raku.com/post162591
+URL:https://pokemongo-raku.com/post162591
+END:VEVENT
+BEGIN:VEVENT
 UID:max-battle-gmax-duraludon-2026-11-14@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261114T050000
 DTEND;TZID=Asia/Tokyo:20261115T200000
 SUMMARY:💥 マックスバトル：キョダイマックスジュラル
  ドン
 TRANSP:TRANSPARENT
 DESCRIPTION:✨色違い：初登場（確率は未発表）\n👥20人以
- 上
+ 上\n⚠️ワイルドエリア2026グローバル期間中（チケッ
+ トなしでも出る）\nhttps://pokemongo-raku.com/post164351
+URL:https://pokemongo-raku.com/post164351
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-legendary-white-kyurem-2026-11-14@pogo-calendar-ja
+DTSTAMP:20261019T000728Z
+DTSTART;TZID=Asia/Tokyo:20261114T050000
+DTEND;TZID=Asia/Tokyo:20261114T200000
+SUMMARY:🐉 伝説レイド：ホワイトキュレム
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い確率：約1/20\n👥3人以上\n⚠️ワイル
+ ドエリア2026グローバル期間中\n📊確率は攻略サイト・
+ コミュニティの推定値（公式発表ではない）\nhttps://poke
+ mongo-raku.com/post105261
+URL:https://pokemongo-raku.com/post105261
 END:VEVENT
 BEGIN:VEVENT
 UID:wa-global-day1-raids-2026@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261114T050000
 DTEND;TZID=Asia/Tokyo:20261114T200000
-SUMMARY:🐉 ワイルドエリア限定：ゼクロム・ホワイトキ
- ュレム／ダイマックスディアルガ
+SUMMARY:🐉 伝説レイド：ゼクロム
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違い確率：伝説レイドは約1/20。ダイマッ
- クスディアルガは色違い初登場（確率は未発表）\n📊
- 確率は攻略サイト・コミュニティの推定値（公式発表
- ではない）
+DESCRIPTION:✨色違い確率：約1/20\n👥3人以上\n⚠️ワイル
+ ドエリア2026グローバル期間中\n📊確率は攻略サイト・
+ コミュニティの推定値（公式発表ではない）\nhttps://poke
+ mongo-raku.com/post24603
+URL:https://pokemongo-raku.com/post24603
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-3star-machamp-jacket-2026-11-14@pogo-calendar-ja
+DTSTAMP:20261019T000728Z
+DTSTART;TZID=Asia/Tokyo:20261114T100000
+DTEND;TZID=Asia/Tokyo:20261115T180000
+SUMMARY:⭐ 星3レイド：ジャケットのカイリキー
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い：未確認\n⚠️ワイルドエリア2026グロ
+ ーバル期間中（各日10:00〜18:00）\nhttps://pokemongo-raku.com/po
+ st162577
+URL:https://pokemongo-raku.com/post162577
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-palkia-2026-11-15@pogo-calendar-ja
+DTSTAMP:20261019T000728Z
+DTSTART;TZID=Asia/Tokyo:20261115T050000
+DTEND;TZID=Asia/Tokyo:20261115T200000
+SUMMARY:💥 マックスバトル：ダイマックスパルキア
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い：初登場（確率は未発表）\n👥3人以
+ 上\n⚠️ワイルドエリア2026グローバル期間中（日曜限
+ 定）\nhttps://pokemongo-raku.com/post162600
+URL:https://pokemongo-raku.com/post162600
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-legendary-black-kyurem-2026-11-15@pogo-calendar-ja
+DTSTAMP:20261019T000728Z
+DTSTART;TZID=Asia/Tokyo:20261115T050000
+DTEND;TZID=Asia/Tokyo:20261115T200000
+SUMMARY:🐉 伝説レイド：ブラックキュレム
+TRANSP:TRANSPARENT
+DESCRIPTION:✨色違い確率：約1/20\n👥3人以上\n⚠️ワイル
+ ドエリア2026グローバル期間中\n📊確率は攻略サイト・
+ コミュニティの推定値（公式発表ではない）\nhttps://poke
+ mongo-raku.com/post105207
+URL:https://pokemongo-raku.com/post105207
 END:VEVENT
 BEGIN:VEVENT
 UID:wa-global-day2-raids-2026@pogo-calendar-ja
-DTSTAMP:20261015T163233Z
+DTSTAMP:20261019T000728Z
 DTSTART;TZID=Asia/Tokyo:20261115T050000
 DTEND;TZID=Asia/Tokyo:20261115T200000
-SUMMARY:🐉 ワイルドエリア限定：レシラム・ブラックキ
- ュレム／ダイマックスパルキア
+SUMMARY:🐉 伝説レイド：レシラム
 TRANSP:TRANSPARENT
-DESCRIPTION:✨色違い確率：伝説レイドは約1/20。ダイマッ
- クスパルキアは色違い初登場（確率は未発表）\n📊確
- 率は攻略サイト・コミュニティの推定値（公式発表で
- はない）
+DESCRIPTION:✨色違い確率：約1/20\n👥3人以上\n⚠️ワイル
+ ドエリア2026グローバル期間中\n📊確率は攻略サイト・
+ コミュニティの推定値（公式発表ではない）\nhttps://poke
+ mongo-raku.com/post24283
+URL:https://pokemongo-raku.com/post24283
 END:VEVENT
 END:VCALENDAR
